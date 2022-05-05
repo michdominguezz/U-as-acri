@@ -1,0 +1,63 @@
+*{
+    
+     margin: 0;
+     padding: 0;
+     
+
+     
+ }
+ #Contenedor{
+     
+     
+     width: 90%;
+     
+     margin-left: 50px;
+     margin-top:20px ;
+ }
+ 
+ .carouselslide{
+     position: fixed;
+ }
+
+ 
+ 
+     
+ 
+ body{
+     background-color: hotpink;
+ }
+
+ 
+
+
+  .articles {
+    width: 68.5%;
+    float: left;
+    margin-right:1.5% ;
+    
+ }
+.articles article{
+    padding: 20px;
+    background-color: beige;
+ }
+ aside{
+    width: 30%;
+    background-color: cadetblue;
+    float: left;
+    
+
+    
+}
+footer{
+    background-color: black;
+    color: antiquewhite;
+    clear: both;
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+
+    }
+.card-body{
+    background-color: peachpuff;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
